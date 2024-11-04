@@ -1,4 +1,7 @@
-### Get in Touch
----
+**📬 Contact Me:**
+If you’re interested in discussing potential collaborations, job opportunities, or projects, please reach out to me via:
+- **Email:** [ashbla@proton.me](mailto:ashbla@proton.me)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ashtinb)
+- **GitHub:** [@slammingprogramming](https://github.com/slammingprogramming)
 
-- 📫 You can reach me through my email listed on my profile to discuss collaborations, projects, or any interesting tech-related topics.
+Let’s connect and explore how we can work together to create something amazing!

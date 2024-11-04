@@ -40,7 +40,6 @@
 6. **Practice Mindfulness:**
    - Goal: Incorporate mindfulness practices, such as meditation or journaling, into my daily routine to enhance mental well-being and focus.
 
-### Fun Fact
----
+# A Story
 
 Once, while modifying an Xbox 360 for security research, I was convinced I had nailed the process after eight long hours. Just as I was ready to celebrate my success, I reassembled it and... pop! One tiny, too-short wire pulled a trace, and just like that, my beloved console was a brick. I was so upset I went to bed, but when I woke up, I decided to give it another shot. I bought a new 360 for $20 and, in just 30 minutes, got it right the second time! Lesson learned: patience is key, especially when dealing with tech!
