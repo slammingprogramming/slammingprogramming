@@ -44,6 +44,30 @@ Welcome to my GitHub profile! I’m a passionate game and software developer wit
 6. **Mentor Aspiring Developers:**
    - Goal: Begin mentoring at least one junior developer or student within the next year, providing guidance on projects and career development.
 
+### Personal Goals
+---
+
+**📚 Continuous Learning:**
+1. **Read One Book Per Month:** 
+   - Goal: Explore topics related to technology, personal development, or fiction to broaden my knowledge and perspectives.
+
+2. **Take Online Courses:**
+   - Goal: Complete at least three online courses related to emerging technologies or personal interests within the next year.
+
+**🤝 Community Engagement:**
+3. **Volunteer for Local Tech Initiatives:**
+   - Goal: Dedicate at least 5 hours a month to volunteer for organizations that promote technology education or digital literacy in the community.
+
+4. **Host a Tech Meetup:**
+   - Goal: Organize and host a tech-related meetup or workshop within the next year to share knowledge and connect with like-minded individuals.
+
+**⚖️ Work-Life Balance:**
+5. **Establish a Healthy Routine:**
+   - Goal: Create and stick to a weekly schedule that includes dedicated time for work, learning, exercise, and relaxation.
+
+6. **Practice Mindfulness:**
+   - Goal: Incorporate mindfulness practices, such as meditation or journaling, into my daily routine to enhance mental well-being and focus.
+
 ### Fun Fact
 ---
 
