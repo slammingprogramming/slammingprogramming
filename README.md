@@ -6,8 +6,8 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-💚-blue)
 ![Game Development](https://img.shields.io/badge/Game%20Development-🎮-orange)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-🚀-purple)
-![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-ff69b4)
-![Blog](https://img.shields.io/badge/Blog-Read%20Here-4CAF50)
+![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-ff69b4)(PORTFOLIO.md)
+![Blog](https://img.shields.io/badge/Blog-Read%20Here-4CAF50)(blog/README.md)
 
 Welcome to my GitHub profile! I’m a passionate game and software developer with a strong foundation in radio/wireless, chemistry, physics, space, and tech. I believe in leveraging technology to drive positive change and advance humanity’s goals. Justice and integrity are at the core of my values, and I’m eager to connect with potential employers, collaborators, and the vibrant open-source community.
 
