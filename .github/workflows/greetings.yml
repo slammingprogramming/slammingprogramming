@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "I appreciate your interest in contributing to my profile repository. Please provide a clear description of the issue you're facing or the idea you'd like to share. I'll review it and get back to you as soon as possible. Your input is valuable and helps me improve this space!"
+        pr-message: "Thank you for your contribution! Please provide a brief description of the changes you've made and why you think they improve the project. I'll review your PR shortly and provide feedback. Let's keep this collaboration going!"
