@@ -57,6 +57,6 @@ For a complete list of my projects, please visit my GitHub profile: [slammingpro
 
 ## Contact
 
-For inquiries or collaboration opportunities, please reach out via my [Contact Me](../CONTACT.md)
+For inquiries or collaboration opportunities, please reach out via my [Contact Me](CONTACT.md)
 
 Thank you for exploring my portfolio!

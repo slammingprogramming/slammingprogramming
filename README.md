@@ -1,6 +1,6 @@
 # Hi there, I'm Ashtin (aka @slammingprogramming) 👋
 
-![GitHub followers](https://img.shields.io/github/followers/slammingprogramming?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/slammingprogramming?style=social)](https://github.com/slammingprogramming?tab=followers)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💚-blue)
 ![Game Development](https://img.shields.io/badge/Game%20Development-🎮-orange)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-🚀-purple)

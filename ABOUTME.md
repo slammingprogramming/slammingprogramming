@@ -27,6 +27,7 @@
    - Goal: Complete at least three online courses related to emerging technologies or personal interests within the next year.
 
 **🤝 Community Engagement:**
+
 3. **Volunteer for Local Tech Initiatives:**
    - Goal: Dedicate at least 5 hours a month to volunteer for organizations that promote technology education or digital literacy in the community.
 
@@ -34,6 +35,7 @@
    - Goal: Organize and host a tech-related meetup or workshop within the next year to share knowledge and connect with like-minded individuals.
 
 **⚖️ Work-Life Balance:**
+
 5. **Establish a Healthy Routine:**
    - Goal: Create and stick to a weekly schedule that includes dedicated time for work, learning, exercise, and relaxation.
 
